@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>POST on Thong Nguyen</title>
+    <link>https://thongnqnguyen.github.io/portfolio/post/</link>
+    <description>Recent content in POST on Thong Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Thong Nguyen</copyright>
+    <lastBuildDate>Mon, 20 Apr 2020 16:18:12 +0100</lastBuildDate><atom:link href="https://thongnqnguyen.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Free software on Linux I love</title>
+      <link>https://thongnqnguyen.github.io/portfolio/post/opensource-free-recommend/</link>
+      <pubDate>Mon, 20 Apr 2020 16:18:12 +0100</pubDate>
+      
+      <guid>https://thongnqnguyen.github.io/portfolio/post/opensource-free-recommend/</guid>
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://thongnqnguyen.github.io/portfolio/post/images/Ubuntu.PNG&#34;
+         alt=&#34;Ubuntu 20.4.1 LTS&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Ubuntu 20.4.1 LTS&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>How I learned Japanese</title>
+      <link>https://thongnqnguyen.github.io/portfolio/post/howjapanese/</link>
+      <pubDate>Mon, 02 Sep 2019 19:49:05 +0200</pubDate>
+      
+      <guid>https://thongnqnguyen.github.io/portfolio/post/howjapanese/</guid>
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://thongnqnguyen.github.io/portfolio/post/images/N1%20book.jpg&#34;
+         alt=&#34;My books for JLPT N1&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;My books for JLPT N1&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>Learn Sketchnote!</title>
+      <link>https://thongnqnguyen.github.io/portfolio/post/learn-sketchnote/</link>
+      <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
+      
+      <guid>https://thongnqnguyen.github.io/portfolio/post/learn-sketchnote/</guid>
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://thongnqnguyen.github.io/portfolio/post/images/sketchnote.jpg&#34;
+         alt=&#34;No more dry note!&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;No more dry note!&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>How I learn New technology</title>
+      <link>https://thongnqnguyen.github.io/portfolio/post/how-i-learn-new-tech/</link>
+      <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
+      
+      <guid>https://thongnqnguyen.github.io/portfolio/post/how-i-learn-new-tech/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-YAML&#34; data-lang=&#34;YAML&#34;&gt;&lt;span class=&#34;l&#34;&gt;public class Hello {&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;public static void main(String[] args) {&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;System.out.println(&amp;#34;Hello World&amp;#34;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;}&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;}&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>How I learn Drawing</title>
+      <link>https://thongnqnguyen.github.io/portfolio/post/how-i-learn-drawing/</link>
+      <pubDate>Mon, 29 Apr 2019 16:18:12 +0100</pubDate>
+      
+      <guid>https://thongnqnguyen.github.io/portfolio/post/how-i-learn-drawing/</guid>
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://thongnqnguyen.github.io/portfolio/post/images/art/water-melon.jpg&#34;
+         alt=&#34;My warter melon drawing (this is my copy from a still life tutorial book)&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;My warter melon drawing (this is my copy from a still life tutorial book)&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
